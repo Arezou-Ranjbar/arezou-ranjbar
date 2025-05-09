@@ -5,6 +5,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   color: #262729;
+  font-family: var(--font-inter);
 }
 
 :root {
@@ -12,6 +13,7 @@ body {
   --secondary-color: #676869;
   --text-color: #262729;
   --background-color: #f6f6f6;
+  --font-inter: "Inter", serif;
 }
 
 @layer components {
